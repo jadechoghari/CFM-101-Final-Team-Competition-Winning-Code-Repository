@@ -13,6 +13,7 @@ Welcome to the official repository for the winning code of the CFM 101 Team Comp
 
 **Our Achievement:**
 - We are proud to present our winning code that demonstrates our innovative drive and technical expertise in the fintech field.
+- Our code generated the best portfolio in all of CFM history.
 
 **Explore:**
 - Dive into our solutions, learn from our approach, and see how we tackled the complexities of fintech in this exciting competition.
